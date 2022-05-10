@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_Storage/Templates/Important People.md",
+            "file": "Misc/General Ideas.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Storage/Templates/Important People.md",
+                "file": "Misc/General Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,8 @@
   },
   "active": "943d66542c28a125",
   "lastOpenFiles": [
+    "Misc/General Ideas.md",
+    "Misc/Concepts.md",
     "_Storage/Templates/Important People.md",
     "Countries/South America/Brazil/People/Lampião.md",
     "Countries/South America/Brazil/People/Dom Pedro II.md",
@@ -105,8 +107,6 @@
     "Tenentismo.md",
     "_Storage/Assets/Luis Carlos Prestes.png",
     "Countries/South America/Brazil/Misc/Great Works and Monuments.md",
-    "Countries/South America/Brazil/Misc/Economy.md",
-    "Countries/South America/Brazil/Misc/Brazil's capital.md",
-    "Countries/South America/Brazil/Misc/Brazilian population.md"
+    "Countries/South America/Brazil/Misc/Economy.md"
   ]
 }
