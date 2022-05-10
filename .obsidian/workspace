@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "11c9df3835f8a0aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "943d66542c28a125",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Victorian Brazil/Misc/Ideas.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1506ba658f3e693d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d12e3cc8e7f4936",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92eb41a1a84e6e09",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1d40d3e221075ae9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "69198383d4184411",
+    "type": "split",
+    "children": [
+      {
+        "id": "185193ac483a7296",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13b752aed460a4d5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Victorian Brazil/Misc/Ideas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4a9f09586773e29b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "943d66542c28a125",
+  "lastOpenFiles": [
+    "Victorian Brazil/Misc/Ideas.md",
+    "Victorian Brazil/Misc/Great Works and Monuments.md",
+    "Victorian Brazil/People/Dom Pedro II.md",
+    "Victorian Brazil/People/Lampião.md",
+    "Victorian Brazil/People/Luís Carlos Prestes.md",
+    "Victorian Brazil/Concepts.md",
+    "Victorian Brazil/Misc/Brazilian population.md",
+    "Victorian Brazil/Misc/Brazil's capital.md",
+    "Victorian Brazil/Journals/Cabanagem.md",
+    "Victorian Brazil/Journals/Farroupilha.md"
+  ]
+}

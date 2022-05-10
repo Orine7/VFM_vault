@@ -1,0 +1,13 @@
+{
+  "promptDelete": true,
+  "readableLineLength": true,
+  "showFrontmatter": false,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "legacyEditor": false,
+  "trashOption": "local",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Victorian Brazil",
+  "attachmentFolderPath": "Assets",
+  "alwaysUpdateLinks": true
+}
