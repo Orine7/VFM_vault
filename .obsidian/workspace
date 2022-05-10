@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Victorian Brazil/Misc/Ideas.md",
+            "file": "_Storage/Templates/Important People.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Victorian Brazil/Misc/Ideas.md",
+                "file": "_Storage/Templates/Important People.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "943d66542c28a125",
   "lastOpenFiles": [
-    "Victorian Brazil/Misc/Ideas.md",
-    "Victorian Brazil/Misc/Great Works and Monuments.md",
-    "Victorian Brazil/People/Dom Pedro II.md",
-    "Victorian Brazil/People/Lampião.md",
-    "Victorian Brazil/People/Luís Carlos Prestes.md",
-    "Victorian Brazil/Concepts.md",
-    "Victorian Brazil/Misc/Brazilian population.md",
-    "Victorian Brazil/Misc/Brazil's capital.md",
-    "Victorian Brazil/Journals/Cabanagem.md",
-    "Victorian Brazil/Journals/Farroupilha.md"
+    "_Storage/Templates/Important People.md",
+    "Countries/South America/Brazil/People/Lampião.md",
+    "Countries/South America/Brazil/People/Dom Pedro II.md",
+    "Countries/South America/Brazil/People/Luís Carlos Prestes.md",
+    "Tenentismo.md",
+    "_Storage/Assets/Luis Carlos Prestes.png",
+    "Countries/South America/Brazil/Misc/Great Works and Monuments.md",
+    "Countries/South America/Brazil/Misc/Economy.md",
+    "Countries/South America/Brazil/Misc/Brazil's capital.md",
+    "Countries/South America/Brazil/Misc/Brazilian population.md"
   ]
 }

@@ -8,7 +8,7 @@ tags:
   <tr style="border: none;">
     <td width=50% style="border: none;">Name: {{title}} </td>
     <td rowspan="6" width=50% style="border: none;">
-		<img src="app://local//home/orine/Vaults/Victorian Brazil/Assets/No_image.png" 
+		<img src="https://i.imgur.com/WL27RbY.png" 
 style="max-height: 400px; max-width: 400px;"
 >
 	  </td>
