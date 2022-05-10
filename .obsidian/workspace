@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Misc/General Ideas.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/General Ideas.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "943d66542c28a125",
   "lastOpenFiles": [
+    "README.md",
+    "Tenentismo.md",
     "Misc/General Ideas.md",
     "Misc/Concepts.md",
     "_Storage/Templates/Important People.md",
     "Countries/South America/Brazil/People/Lampião.md",
     "Countries/South America/Brazil/People/Dom Pedro II.md",
     "Countries/South America/Brazil/People/Luís Carlos Prestes.md",
-    "Tenentismo.md",
     "_Storage/Assets/Luis Carlos Prestes.png",
-    "Countries/South America/Brazil/Misc/Great Works and Monuments.md",
-    "Countries/South America/Brazil/Misc/Economy.md"
+    "Countries/South America/Brazil/Misc/Great Works and Monuments.md"
   ]
 }
