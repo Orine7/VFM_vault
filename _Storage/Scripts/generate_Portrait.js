@@ -1,6 +1,5 @@
 function generatePortrait(name, img) {
-  console.log('Generating portrait for ' + name)
-  console.log('Image: ' + img)
+  return name + ' ' + img
 }
 
 module.exports = generatePortrait

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "eae946bf9ebbc4d5",
+        "id": "04da26edbd9a10b6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_Storage/Templates/Important People.md",
+            "file": "_Storage/Templates/Important Events.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Storage/Templates/Important People.md",
+                "file": "_Storage/Templates/Important Events.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +96,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eae946bf9ebbc4d5",
+  "active": "04da26edbd9a10b6",
   "lastOpenFiles": [
+    "_Storage/Templates/Important Events.md",
     "_Storage/Templates/Important People.md",
+    "_Storage/Templates/Test Template.md",
+    "Countries/South America/Brazil/Untitled.md",
+    "_Storage/Templates/Untitled 1.md",
     "_Storage/Scripts/Generate Portrait.md",
     "Countries/South America/Brazil/People/Lampião.md",
     "Countries/South America/Brazil/People/Dom Pedro II.md",
     "Countries/South America/Brazil/Journals/Cabanagem.md",
-    "Countries/South America/Brazil/Misc/Relevant Personalities.md",
-    "Countries/South America/Brazil/Misc/Rulers.md",
-    "Countries/South America/Brazil/Journals/Regency period.md",
-    "Countries/South America/Brazil/Journals/Farroupilha.md",
-    "Countries/South America/Brazil/Misc/Ideas.md"
+    "Countries/South America/Brazil/Misc/Relevant Personalities.md"
   ]
 }

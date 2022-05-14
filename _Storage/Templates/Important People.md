@@ -1,5 +1,6 @@
 ---
 aliases: []
+my_var: test
 image_link: "https://i.imgur.com/WL27RbY.png"
 tags: 
 - Important/People
@@ -41,4 +42,3 @@ Relevant Characters:
 
 Other Pertinent Items:
 
-<% tp.user.generate_Portrait('teste', 'oe') %>
