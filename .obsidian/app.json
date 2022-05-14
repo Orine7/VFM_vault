@@ -9,5 +9,6 @@
   "newFileLocation": "current",
   "newFileFolderPath": "/",
   "attachmentFolderPath": "_Storage/Assets",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true
 }

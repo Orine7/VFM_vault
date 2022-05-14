@@ -11,8 +11,8 @@
 
 ---
 aliases: []
+img_url: <% img_url %>
 tags: 
-- Important/People
 ---
 
 <% await tp.user.generate_Portrait(tp.file.title, img_url,
@@ -34,11 +34,3 @@ state,
 actingRegion,
 
 traits) %>
-
-History:
-
-Relevant Events:
-
-Relevant Characters:
-
-Other Pertinent Items:

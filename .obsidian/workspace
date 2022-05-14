@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "04da26edbd9a10b6",
+        "id": "6883769f5eb3970d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_Storage/Templates/Test Template.md",
+            "file": "Countries/South America/testing.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Storage/Templates/Test Template.md",
+                "file": "Countries/South America/testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +96,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "04da26edbd9a10b6",
+  "active": "6883769f5eb3970d",
   "lastOpenFiles": [
-    "_Storage/Templates/Test Template.md",
-    "_Storage/Templates/Important Events.md",
-    "Countries/South America/Brazil/Testes.md",
+    "Countries/South America/testing.md",
+    "_Storage/Templates/TESTING.md",
     "_Storage/Templates/Important People.md",
-    "_Storage/Templates/Untitled 1.md",
-    "_Storage/Scripts/Generate Portrait.md",
+    "Countries/South America/Brazil/People/Luís Carlos Prestes.md",
+    "_Storage/Templates/Important Events.md",
+    "Countries/South America/Brazil/People/Afonso Santos Drummond.md",
     "Countries/South America/Brazil/People/Lampião.md",
-    "Countries/South America/Brazil/People/Dom Pedro II.md",
-    "Countries/South America/Brazil/Journals/Cabanagem.md",
-    "Countries/South America/Brazil/Misc/Relevant Personalities.md"
+    "Countries/South America/Brazil/Misc/Relevant Personalities.md",
+    "Countries/South America/Brazil/Misc/Important Revolts.md",
+    "Countries/South America/Brazil/Testes.md"
   ]
 }
