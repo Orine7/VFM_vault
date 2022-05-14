@@ -1,9 +1,9 @@
 [
-  "url-into-selection",
   "templater-obsidian",
   "obsidian-linter",
   "obsidian-mind-map",
   "obsidian-excalidraw-plugin",
   "emoji-shortcodes",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-git"
 ]

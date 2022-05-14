@@ -6,7 +6,7 @@
   "spellcheck": true,
   "legacyEditor": false,
   "trashOption": "local",
-  "newFileLocation": "folder",
+  "newFileLocation": "current",
   "newFileFolderPath": "/",
   "attachmentFolderPath": "_Storage/Assets",
   "alwaysUpdateLinks": true

@@ -1,5 +1,6 @@
 ---
 aliases: []
+image_link: "https://i.imgur.com/WL27RbY.png"
 tags: 
 - Important/People
 ---
@@ -8,7 +9,7 @@ tags:
   <tr style="border: none;">
     <td width=50% style="border: none;">Name: {{title}} </td>
     <td rowspan="6" width=50% style="border: none;">
-		<img src="https://i.imgur.com/WL27RbY.png" 
+		<img src= "<% %>"
 style="max-height: 400px; max-width: 400px;"
 >
 	  </td>
