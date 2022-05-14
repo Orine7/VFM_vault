@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_Storage/Templates/Important Events.md",
+            "file": "_Storage/Templates/Test Template.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Storage/Templates/Important Events.md",
+                "file": "_Storage/Templates/Test Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,10 +98,10 @@
   },
   "active": "04da26edbd9a10b6",
   "lastOpenFiles": [
-    "_Storage/Templates/Important Events.md",
-    "_Storage/Templates/Important People.md",
     "_Storage/Templates/Test Template.md",
-    "Countries/South America/Brazil/Untitled.md",
+    "_Storage/Templates/Important Events.md",
+    "Countries/South America/Brazil/Testes.md",
+    "_Storage/Templates/Important People.md",
     "_Storage/Templates/Untitled 1.md",
     "_Storage/Scripts/Generate Portrait.md",
     "Countries/South America/Brazil/People/Lampião.md",
