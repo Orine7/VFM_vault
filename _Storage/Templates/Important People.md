@@ -9,7 +9,7 @@ tags:
   <tr style="border: none;">
     <td width=50% style="border: none;">Name: {{title}} </td>
     <td rowspan="6" width=50% style="border: none;">
-		<img src= <% tp.frontmatter.image_link %> >
+		<img src= {{image_link}} >
 	  </td>
   </tr>
   <tr>
@@ -40,3 +40,5 @@ Relevant Events:
 Relevant Characters:
 
 Other Pertinent Items:
+
+<% tp.user.generate_Portrait({{title}}, {{image_link}}) %>
