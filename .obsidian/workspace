@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6883769f5eb3970d",
+        "id": "1f0e72903574a1c4",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Countries/South America/Brazil/People/Dom Pedro II.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Countries/South America/Brazil/People/Dom Pedro II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,8 +91,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6883769f5eb3970d",
+  "active": "1f0e72903574a1c4",
   "lastOpenFiles": [
+    "Countries/South America/Brazil/People/Untitled.md",
     "Countries/South America/Brazil/People/Dom Pedro II.md",
     "Countries/South America/Brazil/People/Afonso Santos Drummond.md",
     "_Storage/Templates/Important Events.md",
@@ -106,7 +102,6 @@
     "_Storage/Templates/TESTING.md",
     "_Storage/Templates/Important People.md",
     "Countries/South America/Brazil/People/Lampião.md",
-    "Countries/South America/Brazil/Misc/Relevant Personalities.md",
-    "Countries/South America/Brazil/Misc/Important Revolts.md"
+    "Countries/South America/Brazil/Misc/Relevant Personalities.md"
   ]
 }
