@@ -7,8 +7,12 @@
         "id": "1f0e72903574a1c4",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Countries/South America/Brazil/Misc/Ideas.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Countries/South America/Brazil/Misc/Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,10 +101,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 875.5
+    "width": 875.5,
+    "collapsed": true
   },
   "active": "1f0e72903574a1c4",
   "lastOpenFiles": [
+    "Countries/South America/Brazil/Misc/Ideas.md",
+    "Countries/South America/Brazil/Misc/Relevant Personalities.md",
     "Countries/South America/Brazil/People/Untitled.md",
     "Countries/South America/Brazil/People/Dom Pedro II.md",
     "Countries/South America/Brazil/People/Afonso Santos Drummond.md",
@@ -107,8 +115,6 @@
     "Countries/South America/Brazil/People/Luís Carlos Prestes.md",
     "Countries/South America/testing.md",
     "_Storage/Templates/TESTING.md",
-    "_Storage/Templates/Important People.md",
-    "Countries/South America/Brazil/People/Lampião.md",
-    "Countries/South America/Brazil/Misc/Relevant Personalities.md"
+    "_Storage/Templates/Important People.md"
   ]
 }
