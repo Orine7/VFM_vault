@@ -7,12 +7,8 @@
         "id": "6883769f5eb3970d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Countries/South America/Brazil/People/Dom Pedro II.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Countries/South America/Brazil/People/Dom Pedro II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
